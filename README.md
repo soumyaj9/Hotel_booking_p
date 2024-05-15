@@ -58,3 +58,9 @@ All customer names and data used in this project are computer-generated using AI
 functions. They do not represent real data associated with Booking.com or any other entity. This
 project is solely for learning and educational purposes, and any resemblance to actual persons,
 businesses, or events is purely coincidental.
+
+## Notice:
+All customer names and data used in this project are computer-generated using AI and random
+functions. They do not represent real data associated with Amazon or any other entity. This
+project is solely for learning and educational purposes, and any resemblance to actual persons,
+businesses, or events is purely coincidental.
